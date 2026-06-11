@@ -29,7 +29,7 @@
 
 <div align = "center">
     <img width = "50%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gustavobidoia&count_private=true&include_all_commits&show_icons=true&theme=tokyonight" />
-    <img width = "50%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavobidoia&count_private=true&include_all_commits=true&layout=compact&langs_count=8&hide=html,css&theme=tokyonight" />
+    <img width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavobidoia&layout=compact&theme=tokyonight" />
 </div>
 
 ---
